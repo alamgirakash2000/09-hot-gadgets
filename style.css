@@ -1,10 +1,11 @@
 
 header a{
-    color: black;
+    color: black;                          /*For black-text of the navigation bar*/
 }
 section{
-    margin-bottom: 100px;
+    margin-bottom: 100px;                    /*This will add extra bottom margin after every section*/
 }
+
 .buy-now-button{
     color: white;
     background-color: black;
@@ -43,5 +44,5 @@ section{
     margin: 10px auto;
 }
 .cat{
-    margin: auto 0;
+    margin: auto 0;            /* All catagories product will centerize */
 }
