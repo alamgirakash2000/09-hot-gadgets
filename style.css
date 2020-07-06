@@ -1,0 +1,47 @@
+
+header a{
+    color: black;
+}
+section{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 25px;
+}
+#products .row{
+    margin-bottom: 20px;
+}
+.see-all{
+    text-decoration: none;
+    color: orange;
+    font-size: 125%;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    box-shadow: 1px 1px 20px lightgrey;
+}
+.catagories{
+    text-align: center;
+}
+
+.catagories:after{
+    display: block;
+    content: "";
+    border: none;
+    border-radius: 100px;
+    height: 5px;
+    width: 100px;
+    background-image: linear-gradient(to right, orange, rgb(212, 92, 13));
+    margin: 10px auto;
+}
+.cat{
+    margin: auto 0;
+}
